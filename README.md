@@ -1,6 +1,7 @@
 # Coding
  
 **Part 1 **
+
 _Some of my codes for the first month of programing_
 https://github.com/24oles/Learning_to_code/tree/Part_1
 
@@ -17,6 +18,7 @@ https://github.com/24oles/Learning_to_code/tree/Part_1
 https://stepik.org/cert/1586753
 
 **Part 2**
+
 _Second month of coding_
 https://github.com/24oles/Learning_to_code/tree/Part_2
  
