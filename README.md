@@ -4,33 +4,33 @@
 _Some of my codes for the first month of programing_
 https://github.com/24oles/Learning_to_code/tree/Part_1
 
-....Data I/O
-....Conditional operator
-....Data types
-....for and while loops
-....String data type
-....Lists
-....Functions
-....Working on a mini-project
+1. Data I/O
+2. Conditional operator
+3. Data types
+4. for and while loops
+5. String data type
+6. Lists
+7. Functions
+8. Working on a mini-project
 
-....Certificate 
+- Certificate 
 https://stepik.org/cert/1586753
 
 **Part 2**
 _Second month of coding_
 https://github.com/24oles/Learning_to_code/tree/Part_2
  
-....We repeat the basic constructions of the Python language;
-....data type bool and NoneType;
-....Nested lists, matrices;
-....Tuples;
-....Sets;
-....Dictionaries;
-....Modules random and string;
-....decimal, fractions and complex modules;
-....Working with graphics, turtle 🐢 module;
-....Functions;
-....Working with files.
+1. We repeat the basic constructions of the Python language;
+2. data type bool and NoneType;
+3. Nested lists, matrices;
+4. Tuples;
+5. Sets;
+6. Dictionaries;
+7. Modules random and string;
+8. decimal, fractions and complex modules;
+9. Working with graphics, turtle 🐢 module;
+10. Functions;
+11. Working with files.
  
-....Certificate
+- Certificate
 https://stepik.org/cert/1680012
