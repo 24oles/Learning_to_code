@@ -4,8 +4,8 @@
 _Some of my codes for the first month of programing_
 https://github.com/24oles/Learning_to_code/tree/Part_1
 
-....Data I/O
-....Conditional operator
+/nData I/O
+/nConditional operator
 ....Data types
 ....for and while loops
 ....String data type
