@@ -1,6 +1,6 @@
 # Coding
  
-**Part 1 **
+**Part 1**
 
 _Some of my codes for the first month of programing_
 https://github.com/24oles/Learning_to_code/tree/Part_1
